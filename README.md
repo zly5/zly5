@@ -1,5 +1,9 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="60%" src="./Hello.jpg" /></a></p>
+<div align=center>
+<img width="60%" src="./Hello.jpg"/>
+</div>
 <br />
+
+<img width="40%" align="right" src="./assets/man_programming.gif"/>
 
 🤓 I'm Lingyun Zhang 张凌云, a Student.
 
