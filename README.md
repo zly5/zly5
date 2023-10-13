@@ -9,26 +9,25 @@
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/kaggle-%E7%AB%9E%E8%B5%9B-35C9FD"></a>&emsp;
   <a href="https://orcid.org/my-orcid?orcid=0009-0007-8597-892X"><img src="https://img.shields.io/badge/ORICD-%E5%AD%A6%E6%9C%AF-5EE47E"></a>&emsp;
   </div>
-  
-🤓 I'm Lingyun Zhang 张凌云, a Student. 
 
 <img width="40%" align="right" src="./assets/man_programming.gif"/>
 
 # 🙋 About Me ! 
 
-- 🎓 Key Laboratory of Intelligent Perception and Image Understanding, Ministry　of Education, Xidian University, Xi’an.
+- 🎓 Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education, Xidian University, Xi’an.
+
+- 🔬 research interests: parallel programming and deep neural network model inference.
 
 - 📫 How to reach me: zhanglingyun759@163.com.
 
-- 🔬 research interests: parallel programming and deep neural network model inference.
-  
-- ❤️ I love Photography📸, Running🏃🏻‍♂️, Music🎸, AI🤖, Drinking🍸🍺. 
+- ❤️ I love Photography📸, writing✍️, Music🎸, Running🏃🏻‍♂️, Drinking🍸🍺. 
 
 - 💬 Ask me about anything [here](https://github.com/zly5/zly5/issues)
 
 # 📚️ Selected Research Papers
 
-- Wu Y, Zhu H, **Zhang L**, et al. Accelerating Deep Convolutional Neural Network Inference Based on OpenCL[C]//Intelligence Science IV: 5th IFIP TC 12 International Conference, ICIS 2022, Xi'an, China, October 28–31, 2022, Proceedings. Cham: Springer International Publishing, 2022: 98-108.
+- <p style="text-align: justify"> Wu Y, Zhu H, <b>Zhang L</b>, et al. Accelerating Deep Convolutional Neural Network Inference Based on OpenCL[C]//Intelligence Science IV: 5th IFIP TC 12 International Conference, ICIS 2022, Xi'an, China, October 28–31, 2022, Proceedings. Cham: Springer International Publishing, 2022: 98-108.</p>
+
 
 # 🚀 Actions on Github
 
