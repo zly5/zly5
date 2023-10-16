@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://blog.csdn.net/qq_46009046?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-EB2213"></a>&emsp;
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/kaggle-%E7%AB%9E%E8%B5%9B-35C9FD"></a>&emsp;
-  <a href="https://orcid.org/my-orcid?orcid=0009-0007-8597-892X"><img src="https://img.shields.io/badge/ORICD-%E5%AD%A6%E6%9C%AF-5EE47E"></a>&emsp;
+  <a href="https://orcid.org/0009-0007-8597-892X"><img src="https://img.shields.io/badge/ORICD-%E5%AD%A6%E6%9C%AF-5EE47E"></a>&emsp;
   </div>
 
 <img width="40%" align="right" src="./assets/man_programming.gif"/>
