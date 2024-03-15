@@ -25,8 +25,9 @@
 - 💬 Ask me about anything [here](https://github.com/zly5/zly5/issues)
 
 # 📚️ Selected Research Papers
-
-- <p style="text-align: justify"> Wu Y, Zhu H, <b>Zhang L</b>, et al. Accelerating Deep Convolutional Neural Network Inference Based on OpenCL[C]//Intelligence Science IV: 5th IFIP TC 12 International Conference, ICIS 2022, Xi'an, China, October 28–31, 2022, Proceedings. Cham: Springer International Publishing, 2022: 98-108.</p>
+- <p style="text-align: justify"> Deep convolutional encoder–decoder networks based on ensemble learning for semantic segmentation of high-resolution aerial imagery. CCF Transactions on High Performance Computing(2024). </p>
+- <p style="text-align: justify"> Bayesian Optimization for Auto-tuning Convolution Neural Network on GPU[C]//International Conference on Algorithms and Architectures for Parallel Processing. ICA3PP 2023. Singapore: Springer Nature Singapore, 2023: 478-489.</p>
+- <p style="text-align: justify"> Accelerating Deep Convolutional Neural Network Inference Based on OpenCL[C]//Intelligence Science IV: 5th IFIP TC 12 International Conference, ICIS 2022, Xi'an, China, October 28–31, 2022, Proceedings. Cham: Springer International Publishing, 2022: 98-108.</p>
 
 
 # 🚀 Actions on Github
