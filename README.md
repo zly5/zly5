@@ -10,9 +10,10 @@
   <a href="https://orcid.org/0009-0007-8597-892X"><img src="https://img.shields.io/badge/ORICD-%E5%AD%A6%E6%9C%AF-5EE47E"></a>&emsp;
   </div>
 
-<img width="40%" align="right" src="./assets/man_programming.gif"/>
+
 
 # 🙋 About Me ! 
+<img width="40%" align="right" src="./assets/man_programming.gif"/>
 
 - 🎓 Key Laboratory of Intelligent Perception and Image Understanding, Ministry of Education, Xidian University, Xi’an.
 
