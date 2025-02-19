@@ -23,10 +23,6 @@
 
 - 📫 How to reach me: zhanglingyun759@163.com.
 
-- ❤️ I love Photography📸, writing✍️, Music🎸, Running🏃🏻‍♂️, Drinking🍸🍺. 
-
-- 💬 Ask me about anything [here](https://github.com/zly5/zly5/issues)
-
 # 📚️ Selected Research Papers
 - <p style="text-align: justify"> Deep convolutional encoder–decoder networks based on ensemble learning for semantic segmentation of high-resolution aerial imagery. CCF Transactions on High Performance Computing(2024). </p>
 - <p style="text-align: justify"> Bayesian Optimization for Auto-tuning Convolution Neural Network on GPU[C]//International Conference on Algorithms and Architectures for Parallel Processing. ICA3PP 2023. Singapore: Springer Nature Singapore, 2023: 478-489.</p>
